@@ -9,10 +9,12 @@
 - 🎛️ **参数调节**：支持自定义语速、音调及 11 种语音风格。
 
 ## 🚀 快速开始
+# 一：手动运行
 1. 下载 `index.html`
 
-2.打开
-
+2. 打开
+# 二：直接使用
+zhischooler-tts.pages.dev
 ## ⚙️ 接口配置
 本项目默认调用公开 API，无需手动配置密钥：
 - **API Endpoint**: `https://tts.wangwangit.com/v1/audio/speech`
